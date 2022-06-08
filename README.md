@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/6/5 4:32 PM UTC
+			2022/6/6 4:32 PM UTC
 		</td>
 		<td>
 			1
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/6/5 4:33 PM UTC
+			2022/6/6 12:00 AM UTC
 		</td>
 		<td>
-			19
+			20
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/498286965/small/year.png" height="20"> 66
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/498286965/small/year.png" height="20"> 67
 		</td>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/6/5 4:33 PM UTC
+			2022/6/6 4:33 PM UTC
 		</td>
 		<td>
 			14
@@ -69,28 +69,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/451889871/year.md">
-				SudokuSolver
-			</a>
-		</td>
-		<td>
-			2022/6/5 4:33 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/451889871/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/453407069/year.md">
 				JavaDBConnectivity
 			</a>
 		</td>
 		<td>
-			2022/6/5 4:33 PM UTC
+			2022/6/6 4:33 PM UTC
 		</td>
 		<td>
 			1
@@ -99,25 +83,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/453407069/small/year.png" height="20"> 4
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/412153610/year.md">
-				PalindromeChecker
-			</a>
-		</td>
-		<td>
-			2022/6/5 4:33 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/412153610/small/year.png" height="20"> 0
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2022/6/8 4:33 PM UTC</i></small>
+<small><i>Last updated on 2022/6/8 4:39 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
