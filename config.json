@@ -7,7 +7,6 @@
     "fsad-assignment2",
     "HaskellBasics",
     "SudokuSolver",
-    "JavaDBConnectivity",
-    "PalindromeChecker"
+    "JavaDBConnectivity"
   ]
 }
