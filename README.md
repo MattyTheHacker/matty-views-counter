@@ -83,9 +83,121 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/453407069/small/year.png" height="20"> 4
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/501328809/year.md">
+				matty-views-counter
+			</a>
+		</td>
+		<td>
+			2022/6/5 11:29 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/501328809/small/year.png" height="20"> 31
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/501347697/year.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2022/6/5 11:29 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/501347697/small/year.png" height="20"> 22
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/501375327/year.md">
+				MattyBot
+			</a>
+		</td>
+		<td>
+			2022/6/5 11:29 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/501375327/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/414278021/year.md">
+				FirstYearCSResources
+			</a>
+		</td>
+		<td>
+			2022/6/5 11:30 PM UTC
+		</td>
+		<td>
+			29
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/414278021/small/year.png" height="20"> 77
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/497300739/year.md">
+				AI1-Algorithms
+			</a>
+		</td>
+		<td>
+			2022/6/5 11:30 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/497300739/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/489458791/year.md">
+				Assignment3
+			</a>
+		</td>
+		<td>
+			2022/6/5 11:30 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/489458791/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MattyTheHacker/matty-views-counter/tree/master/readme/450966880/year.md">
+				SnakeGame
+			</a>
+		</td>
+		<td>
+			2022/6/5 11:30 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/450966880/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/6/8 11:23 PM UTC</i></small>
+<small><i>Last updated on 2022/6/8 11:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

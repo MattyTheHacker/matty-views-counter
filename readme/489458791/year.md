@@ -1,7 +1,7 @@
 ## [🔙 matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter)
 
-### :octocat: [MattyTheHacker](https://github.com/MattyTheHacker/MattyTheHacker)
-![Image of matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter/blob/master/graph/442212745/large/year.png)
+### :octocat: [Assignment3](https://github.com/MattyTheHacker/Assignment3)
+![Image of matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter/blob/master/graph/489458791/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/6/8 11:28 PM UTC</i></small>
+<small><i>Last updated on 2022/6/8 11:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter/blob/master/svg/442212745/badge.svg)](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/442212745/week.md)
+[![Image of matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter/blob/master/svg/489458791/badge.svg)](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/489458791/week.md)
 ```readme
-[![Image of matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter/blob/master/svg/442212745/badge.svg)](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/442212745/week.md)
+[![Image of matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter/blob/master/svg/489458791/badge.svg)](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/489458791/week.md)
 ```
 ### Header
-# MattyTheHacker [<img alt="Image of matty-views-counter" src="https://github.com/MattyTheHacker/matty-views-counter/blob/master/graph/442212745/small/year.png" height="20">](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/442212745/year.md)
+# Assignment3 [<img alt="Image of matty-views-counter" src="https://github.com/MattyTheHacker/matty-views-counter/blob/master/graph/489458791/small/year.png" height="20">](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/489458791/year.md)
 ```readme
-# MattyTheHacker [<img alt="Image of matty-views-counter" src="https://github.com/MattyTheHacker/matty-views-counter/blob/master/graph/442212745/small/year.png" height="20">](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/442212745/year.md)
+# Assignment3 [<img alt="Image of matty-views-counter" src="https://github.com/MattyTheHacker/matty-views-counter/blob/master/graph/489458791/small/year.png" height="20">](https://github.com/MattyTheHacker/matty-views-counter/blob/master/readme/489458791/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
