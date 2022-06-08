@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "MattyTheHacker",
+    "fsad-assignment2",
+    "HaskellBasics",
+    "SudokuSolver",
+    "JavaDBConnectivity",
+    "PalindromeChecker"
   ]
 }
