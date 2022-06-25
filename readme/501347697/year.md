@@ -23,7 +23,7 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>98</code>
+			<code>100</code>
 		</td>
 		<td>
 			<code>151</code>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/6/24 6:29 PM UTC</i></small>
+<small><i>Last updated on 2022/6/25 2:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
