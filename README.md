@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:23 AM UTC
+			2022/8/25 12:00 AM UTC
 		</td>
 		<td>
-			13
+			14
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/442212745/small/year.png" height="20"> 41
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/442212745/small/year.png" height="20"> 43
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:23 AM UTC
+			2022/8/25 12:00 AM UTC
 		</td>
 		<td>
-			24
+			27
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/498286965/small/year.png" height="20"> 76
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/498286965/small/year.png" height="20"> 95
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:23 AM UTC
+			2022/8/25 12:00 AM UTC
 		</td>
 		<td>
-			20
+			21
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/452449349/small/year.png" height="20"> 59
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/452449349/small/year.png" height="20"> 66
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:24 AM UTC
+			2022/8/25 2:27 AM UTC
 		</td>
 		<td>
 			1
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:24 AM UTC
+			2022/8/25 2:27 AM UTC
 		</td>
 		<td>
 			10
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 12:00 AM UTC
+			2022/8/25 2:27 AM UTC
 		</td>
 		<td>
 			462
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:24 AM UTC
+			2022/8/25 2:28 AM UTC
 		</td>
 		<td>
 			7
@@ -138,13 +138,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 12:00 AM UTC
+			2022/8/25 12:00 AM UTC
 		</td>
 		<td>
-			92
+			93
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/414278021/small/year.png" height="20"> 260
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/414278021/small/year.png" height="20"> 261
 		</td>
 	</tr>
 	<tr>
@@ -154,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:24 AM UTC
+			2022/8/25 12:00 AM UTC
 		</td>
 		<td>
-			8
+			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/497300739/small/year.png" height="20"> 30
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/497300739/small/year.png" height="20"> 34
 		</td>
 	</tr>
 	<tr>
@@ -170,13 +170,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:24 AM UTC
+			2022/8/25 12:00 AM UTC
 		</td>
 		<td>
-			25
+			27
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/489458791/small/year.png" height="20"> 101
+			<img alt="Response time graph" src="https://github.com/MattyTheHacker/matty-views-counter/raw/master/graph/489458791/small/year.png" height="20"> 123
 		</td>
 	</tr>
 	<tr>
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/24 2:25 AM UTC
+			2022/8/25 2:28 AM UTC
 		</td>
 		<td>
 			3
@@ -197,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/8/26 6:29 PM UTC</i></small>
+<small><i>Last updated on 2022/8/27 2:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
